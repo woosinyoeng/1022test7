@@ -164,7 +164,7 @@ html,body{font-family: "Noto Serif Oriya", serif;  color: #333;}
 
  .main_banner p{display: none;}
  .main_banner img:nth-child(2){display: none;}
-.main_banner video{width: 40vw;}
+.main_banner video{position: absolute; left: 0; bottom: 250px;}
  .main_banner>a::after{display: none;}
 
  .scr_btn img{width: 8vw;}
